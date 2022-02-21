@@ -1,0 +1,40 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.container {
+width: 100%;
+margin: auto;
+padding: 0 1rem;
+}
+
+.bg-beige {
+    background-color: rgba(238, 195, 130, 0.555);
+    color:floralwhite;
+}
+.d-flex{
+    display: flex;
+}
+.justify-content-between {
+    justify-content: space-between;
+}
+.align-items-center {
+    align-items: center;
+}
+
+.navbar{
+    padding: 2rem 0;
+}
+
+.navbar-nav {
+    list-style: none;
+}
+
+.nav-link {
+    color: floralwhite;
+    text-decoration: none;
+    margin-left: 2rem;
+}
+
